@@ -1,7 +1,7 @@
 .cover {
   max-width: 1184px;
   margin: 92px auto 0;
-  background: url(../../../images/cover/cov_image.jpg) no-repeat;
+  background: url(../../images/cover/cov_image.jpg) no-repeat;
   background-size: cover;
 }
 
