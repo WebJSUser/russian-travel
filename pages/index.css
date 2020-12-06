@@ -1,7 +1,7 @@
-/* fonts */
-@import "../vendor/fonts/Inter/inter.css";
 /* Norm */
 @import "../vendor/normalize.css";
+/* fonts */
+@import "../vendor/fonts/Inter/inter.css";
 /* Page */
 @import "../blocks/page/page.css";
 /* Header */
