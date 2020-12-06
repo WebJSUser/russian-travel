@@ -14,18 +14,13 @@
 @media screen and (max-width: 768px) {
   .intro__text {
     margin-left: 0;
-    min-width: 720px;
+    max-width: 720px;
   }
 }
 
-@media screen and (max-width: 724px) {
-  .intro__text {
-    min-width: 425px;
-  }
-}
 
 @media screen and (max-width: 425px) {
   .intro__text {
-    min-width: 288px;
+    max-width: 288px;
   }
 }
