@@ -1,0 +1,13 @@
+.footer__copyright {
+  margin: 0;
+}
+
+.footer__copyright::before {
+  content: "\A9 2020. ";
+}
+
+@media screen and (max-width: 425px) {
+  .footer__copyright {
+    margin-top: 16px;
+  }
+}
