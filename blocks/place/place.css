@@ -13,14 +13,14 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 795px) {
   .place {
     margin: 0 24px;
     gap: 48px 28px;
   }
 }
 
-@media screen and (max-width: 560px) {
+@media screen and (max-width: 650px) {
   .place {
     margin: 0;
     gap: 48px 32px;
